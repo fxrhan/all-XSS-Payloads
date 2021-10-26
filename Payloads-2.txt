@@ -1,0 +1,1000 @@
+<code onpaste="alert(1)" contenteditable>test</code>
+<col draggable="true" ondrag="alert(1)">test</col>
+<col draggable="true" ondragend="alert(1)">test</col>
+<col draggable="true" ondragenter="alert(1)">test</col>
+<col draggable="true" ondragleave="alert(1)">test</col>
+<col draggable="true" ondragstart="alert(1)">test</col>
+<col id=x tabindex=1 onactivate=alert(1)></col>
+<col id=x tabindex=1 onbeforeactivate=alert(1)></col>
+<col id=x tabindex=1 onbeforedeactivate=alert(1)></col><input autofocus>
+<col id=x tabindex=1 ondeactivate=alert(1)></col><input id=y autofocus>
+<col id=x tabindex=1 onfocus=alert(1)></col>
+<col id=x tabindex=1 onfocusin=alert(1)></col>
+<col onbeforecopy="alert(1)" contenteditable>test</col>
+<col onbeforecut="alert(1)" contenteditable>test</col>
+<col onbeforepaste="alert(1)" contenteditable>test</col>
+<col onblur=alert(1) tabindex=1 id=x></col><input autofocus>
+<col onclick="alert(1)">test</col>
+<col oncontextmenu="alert(1)">test</col>
+<col oncopy="alert(1)" contenteditable>test</col>
+<col oncut="alert(1)" contenteditable>test</col>
+<col ondblclick="alert(1)">test</col>
+<col onfocusout=alert(1) tabindex=1 id=x></col><input autofocus>
+<col onkeydown="alert(1)" contenteditable>test</col>
+<col onkeypress="alert(1)" contenteditable>test</col>
+<col onkeyup="alert(1)" contenteditable>test</col>
+<col onmousedown="alert(1)">test</col>
+<col onmouseenter="alert(1)">test</col>
+<col onmouseleave="alert(1)">test</col>
+<col onmousemove="alert(1)">test</col>
+<col onmouseout="alert(1)">test</col>
+<col onmouseover="alert(1)">test</col>
+<col onmouseup="alert(1)">test</col>
+<col onpaste="alert(1)" contenteditable>test</col>
+<colgroup draggable="true" ondrag="alert(1)">test</colgroup>
+<colgroup draggable="true" ondragend="alert(1)">test</colgroup>
+<colgroup draggable="true" ondragenter="alert(1)">test</colgroup>
+<colgroup draggable="true" ondragleave="alert(1)">test</colgroup>
+<colgroup draggable="true" ondragstart="alert(1)">test</colgroup>
+<colgroup id=x tabindex=1 onactivate=alert(1)></colgroup>
+<colgroup id=x tabindex=1 onbeforeactivate=alert(1)></colgroup>
+<colgroup id=x tabindex=1 onbeforedeactivate=alert(1)></colgroup><input autofocus>
+<colgroup id=x tabindex=1 ondeactivate=alert(1)></colgroup><input id=y autofocus>
+<colgroup id=x tabindex=1 onfocus=alert(1)></colgroup>
+<colgroup id=x tabindex=1 onfocusin=alert(1)></colgroup>
+<colgroup onbeforecopy="alert(1)" contenteditable>test</colgroup>
+<colgroup onbeforecut="alert(1)" contenteditable>test</colgroup>
+<colgroup onbeforepaste="alert(1)" contenteditable>test</colgroup>
+<colgroup onblur=alert(1) tabindex=1 id=x></colgroup><input autofocus>
+<colgroup onclick="alert(1)">test</colgroup>
+<colgroup oncontextmenu="alert(1)">test</colgroup>
+<colgroup oncopy="alert(1)" contenteditable>test</colgroup>
+<colgroup oncut="alert(1)" contenteditable>test</colgroup>
+<colgroup ondblclick="alert(1)">test</colgroup>
+<colgroup onfocusout=alert(1) tabindex=1 id=x></colgroup><input autofocus>
+<colgroup onkeydown="alert(1)" contenteditable>test</colgroup>
+<colgroup onkeypress="alert(1)" contenteditable>test</colgroup>
+<colgroup onkeyup="alert(1)" contenteditable>test</colgroup>
+<colgroup onmousedown="alert(1)">test</colgroup>
+<colgroup onmouseenter="alert(1)">test</colgroup>
+<colgroup onmouseleave="alert(1)">test</colgroup>
+<colgroup onmousemove="alert(1)">test</colgroup>
+<colgroup onmouseout="alert(1)">test</colgroup>
+<colgroup onmouseover="alert(1)">test</colgroup>
+<colgroup onmouseup="alert(1)">test</colgroup>
+<colgroup onpaste="alert(1)" contenteditable>test</colgroup>
+<command draggable="true" ondrag="alert(1)">test</command>
+<command draggable="true" ondragend="alert(1)">test</command>
+<command draggable="true" ondragenter="alert(1)">test</command>
+<command draggable="true" ondragleave="alert(1)">test</command>
+<command draggable="true" ondragstart="alert(1)">test</command>
+<command id=x tabindex=1 onactivate=alert(1)></command>
+<command id=x tabindex=1 onbeforeactivate=alert(1)></command>
+<command id=x tabindex=1 onbeforedeactivate=alert(1)></command><input autofocus>
+<command id=x tabindex=1 ondeactivate=alert(1)></command><input id=y autofocus>
+<command id=x tabindex=1 onfocus=alert(1)></command>
+<command id=x tabindex=1 onfocusin=alert(1)></command>
+<command onbeforecopy="alert(1)" contenteditable>test</command>
+<command onbeforecut="alert(1)" contenteditable>test</command>
+<command onbeforepaste="alert(1)" contenteditable>test</command>
+<command onblur=alert(1) tabindex=1 id=x></command><input autofocus>
+<command onclick="alert(1)">test</command>
+<command oncontextmenu="alert(1)">test</command>
+<command oncopy="alert(1)" contenteditable>test</command>
+<command oncut="alert(1)" contenteditable>test</command>
+<command ondblclick="alert(1)">test</command>
+<command onfocusout=alert(1) tabindex=1 id=x></command><input autofocus>
+<command onkeydown="alert(1)" contenteditable>test</command>
+<command onkeypress="alert(1)" contenteditable>test</command>
+<command onkeyup="alert(1)" contenteditable>test</command>
+<command onmousedown="alert(1)">test</command>
+<command onmouseenter="alert(1)">test</command>
+<command onmouseleave="alert(1)">test</command>
+<command onmousemove="alert(1)">test</command>
+<command onmouseout="alert(1)">test</command>
+<command onmouseover="alert(1)">test</command>
+<command onmouseup="alert(1)">test</command>
+<command onpaste="alert(1)" contenteditable>test</command>
+<content draggable="true" ondrag="alert(1)">test</content>
+<content draggable="true" ondragend="alert(1)">test</content>
+<content draggable="true" ondragenter="alert(1)">test</content>
+<content draggable="true" ondragleave="alert(1)">test</content>
+<content draggable="true" ondragstart="alert(1)">test</content>
+<content id=x tabindex=1 onactivate=alert(1)></content>
+<content id=x tabindex=1 onbeforeactivate=alert(1)></content>
+<content id=x tabindex=1 onbeforedeactivate=alert(1)></content><input autofocus>
+<content id=x tabindex=1 ondeactivate=alert(1)></content><input id=y autofocus>
+<content id=x tabindex=1 onfocus=alert(1)></content>
+<content id=x tabindex=1 onfocusin=alert(1)></content>
+<content onbeforecopy="alert(1)" contenteditable>test</content>
+<content onbeforecut="alert(1)" contenteditable>test</content>
+<content onbeforepaste="alert(1)" contenteditable>test</content>
+<content onblur=alert(1) tabindex=1 id=x></content><input autofocus>
+<content onclick="alert(1)">test</content>
+<content oncontextmenu="alert(1)">test</content>
+<content oncopy="alert(1)" contenteditable>test</content>
+<content oncut="alert(1)" contenteditable>test</content>
+<content ondblclick="alert(1)">test</content>
+<content onfocusout=alert(1) tabindex=1 id=x></content><input autofocus>
+<content onkeydown="alert(1)" contenteditable>test</content>
+<content onkeypress="alert(1)" contenteditable>test</content>
+<content onkeyup="alert(1)" contenteditable>test</content>
+<content onmousedown="alert(1)">test</content>
+<content onmouseenter="alert(1)">test</content>
+<content onmouseleave="alert(1)">test</content>
+<content onmousemove="alert(1)">test</content>
+<content onmouseout="alert(1)">test</content>
+<content onmouseover="alert(1)">test</content>
+<content onmouseup="alert(1)">test</content>
+<content onpaste="alert(1)" contenteditable>test</content>
+<data draggable="true" ondrag="alert(1)">test</data>
+<data draggable="true" ondragend="alert(1)">test</data>
+<data draggable="true" ondragenter="alert(1)">test</data>
+<data draggable="true" ondragleave="alert(1)">test</data>
+<data draggable="true" ondragstart="alert(1)">test</data>
+<data id=x tabindex=1 onactivate=alert(1)></data>
+<data id=x tabindex=1 onbeforeactivate=alert(1)></data>
+<data id=x tabindex=1 onbeforedeactivate=alert(1)></data><input autofocus>
+<data id=x tabindex=1 ondeactivate=alert(1)></data><input id=y autofocus>
+<data id=x tabindex=1 onfocus=alert(1)></data>
+<data id=x tabindex=1 onfocusin=alert(1)></data>
+<data onbeforecopy="alert(1)" contenteditable>test</data>
+<data onbeforecut="alert(1)" contenteditable>test</data>
+<data onbeforepaste="alert(1)" contenteditable>test</data>
+<data onblur=alert(1) tabindex=1 id=x></data><input autofocus>
+<data onclick="alert(1)">test</data>
+<data oncontextmenu="alert(1)">test</data>
+<data oncopy="alert(1)" contenteditable>test</data>
+<data oncut="alert(1)" contenteditable>test</data>
+<data ondblclick="alert(1)">test</data>
+<data onfocusout=alert(1) tabindex=1 id=x></data><input autofocus>
+<data onkeydown="alert(1)" contenteditable>test</data>
+<data onkeypress="alert(1)" contenteditable>test</data>
+<data onkeyup="alert(1)" contenteditable>test</data>
+<data onmousedown="alert(1)">test</data>
+<data onmouseenter="alert(1)">test</data>
+<data onmouseleave="alert(1)">test</data>
+<data onmousemove="alert(1)">test</data>
+<data onmouseout="alert(1)">test</data>
+<data onmouseover="alert(1)">test</data>
+<data onmouseup="alert(1)">test</data>
+<data onpaste="alert(1)" contenteditable>test</data>
+<datalist draggable="true" ondrag="alert(1)">test</datalist>
+<datalist draggable="true" ondragend="alert(1)">test</datalist>
+<datalist draggable="true" ondragenter="alert(1)">test</datalist>
+<datalist draggable="true" ondragleave="alert(1)">test</datalist>
+<datalist draggable="true" ondragstart="alert(1)">test</datalist>
+<datalist id=x tabindex=1 onactivate=alert(1)></datalist>
+<datalist id=x tabindex=1 onbeforeactivate=alert(1)></datalist>
+<datalist id=x tabindex=1 onbeforedeactivate=alert(1)></datalist><input autofocus>
+<datalist id=x tabindex=1 ondeactivate=alert(1)></datalist><input id=y autofocus>
+<datalist id=x tabindex=1 onfocus=alert(1)></datalist>
+<datalist id=x tabindex=1 onfocusin=alert(1)></datalist>
+<datalist onbeforecopy="alert(1)" contenteditable>test</datalist>
+<datalist onbeforecut="alert(1)" contenteditable>test</datalist>
+<datalist onbeforepaste="alert(1)" contenteditable>test</datalist>
+<datalist onblur=alert(1) tabindex=1 id=x></datalist><input autofocus>
+<datalist onclick="alert(1)">test</datalist>
+<datalist oncontextmenu="alert(1)">test</datalist>
+<datalist oncopy="alert(1)" contenteditable>test</datalist>
+<datalist oncut="alert(1)" contenteditable>test</datalist>
+<datalist ondblclick="alert(1)">test</datalist>
+<datalist onfocusout=alert(1) tabindex=1 id=x></datalist><input autofocus>
+<datalist onkeydown="alert(1)" contenteditable>test</datalist>
+<datalist onkeypress="alert(1)" contenteditable>test</datalist>
+<datalist onkeyup="alert(1)" contenteditable>test</datalist>
+<datalist onmousedown="alert(1)">test</datalist>
+<datalist onmouseenter="alert(1)">test</datalist>
+<datalist onmouseleave="alert(1)">test</datalist>
+<datalist onmousemove="alert(1)">test</datalist>
+<datalist onmouseout="alert(1)">test</datalist>
+<datalist onmouseover="alert(1)">test</datalist>
+<datalist onmouseup="alert(1)">test</datalist>
+<datalist onpaste="alert(1)" contenteditable>test</datalist>
+<dd draggable="true" ondrag="alert(1)">test</dd>
+<dd draggable="true" ondragend="alert(1)">test</dd>
+<dd draggable="true" ondragenter="alert(1)">test</dd>
+<dd draggable="true" ondragleave="alert(1)">test</dd>
+<dd draggable="true" ondragstart="alert(1)">test</dd>
+<dd id=x tabindex=1 onactivate=alert(1)></dd>
+<dd id=x tabindex=1 onbeforeactivate=alert(1)></dd>
+<dd id=x tabindex=1 onbeforedeactivate=alert(1)></dd><input autofocus>
+<dd id=x tabindex=1 ondeactivate=alert(1)></dd><input id=y autofocus>
+<dd id=x tabindex=1 onfocus=alert(1)></dd>
+<dd id=x tabindex=1 onfocusin=alert(1)></dd>
+<dd onbeforecopy="alert(1)" contenteditable>test</dd>
+<dd onbeforecut="alert(1)" contenteditable>test</dd>
+<dd onbeforepaste="alert(1)" contenteditable>test</dd>
+<dd onblur=alert(1) tabindex=1 id=x></dd><input autofocus>
+<dd onclick="alert(1)">test</dd>
+<dd oncontextmenu="alert(1)">test</dd>
+<dd oncopy="alert(1)" contenteditable>test</dd>
+<dd oncut="alert(1)" contenteditable>test</dd>
+<dd ondblclick="alert(1)">test</dd>
+<dd onfocusout=alert(1) tabindex=1 id=x></dd><input autofocus>
+<dd onkeydown="alert(1)" contenteditable>test</dd>
+<dd onkeypress="alert(1)" contenteditable>test</dd>
+<dd onkeyup="alert(1)" contenteditable>test</dd>
+<dd onmousedown="alert(1)">test</dd>
+<dd onmouseenter="alert(1)">test</dd>
+<dd onmouseleave="alert(1)">test</dd>
+<dd onmousemove="alert(1)">test</dd>
+<dd onmouseout="alert(1)">test</dd>
+<dd onmouseover="alert(1)">test</dd>
+<dd onmouseup="alert(1)">test</dd>
+<dd onpaste="alert(1)" contenteditable>test</dd>
+<del draggable="true" ondrag="alert(1)">test</del>
+<del draggable="true" ondragend="alert(1)">test</del>
+<del draggable="true" ondragenter="alert(1)">test</del>
+<del draggable="true" ondragleave="alert(1)">test</del>
+<del draggable="true" ondragstart="alert(1)">test</del>
+<del id=x tabindex=1 onactivate=alert(1)></del>
+<del id=x tabindex=1 onbeforeactivate=alert(1)></del>
+<del id=x tabindex=1 onbeforedeactivate=alert(1)></del><input autofocus>
+<del id=x tabindex=1 ondeactivate=alert(1)></del><input id=y autofocus>
+<del id=x tabindex=1 onfocus=alert(1)></del>
+<del id=x tabindex=1 onfocusin=alert(1)></del>
+<del onbeforecopy="alert(1)" contenteditable>test</del>
+<del onbeforecut="alert(1)" contenteditable>test</del>
+<del onbeforepaste="alert(1)" contenteditable>test</del>
+<del onblur=alert(1) tabindex=1 id=x></del><input autofocus>
+<del onclick="alert(1)">test</del>
+<del oncontextmenu="alert(1)">test</del>
+<del oncopy="alert(1)" contenteditable>test</del>
+<del oncut="alert(1)" contenteditable>test</del>
+<del ondblclick="alert(1)">test</del>
+<del onfocusout=alert(1) tabindex=1 id=x></del><input autofocus>
+<del onkeydown="alert(1)" contenteditable>test</del>
+<del onkeypress="alert(1)" contenteditable>test</del>
+<del onkeyup="alert(1)" contenteditable>test</del>
+<del onmousedown="alert(1)">test</del>
+<del onmouseenter="alert(1)">test</del>
+<del onmouseleave="alert(1)">test</del>
+<del onmousemove="alert(1)">test</del>
+<del onmouseout="alert(1)">test</del>
+<del onmouseover="alert(1)">test</del>
+<del onmouseup="alert(1)">test</del>
+<del onpaste="alert(1)" contenteditable>test</del>
+<details draggable="true" ondrag="alert(1)">test</details>
+<details draggable="true" ondragend="alert(1)">test</details>
+<details draggable="true" ondragenter="alert(1)">test</details>
+<details draggable="true" ondragleave="alert(1)">test</details>
+<details draggable="true" ondragstart="alert(1)">test</details>
+<details id=x tabindex=1 onactivate=alert(1)></details>
+<details id=x tabindex=1 onbeforeactivate=alert(1)></details>
+<details id=x tabindex=1 onbeforedeactivate=alert(1)></details><input autofocus>
+<details id=x tabindex=1 ondeactivate=alert(1)></details><input id=y autofocus>
+<details id=x tabindex=1 onfocus=alert(1)></details>
+<details id=x tabindex=1 onfocusin=alert(1)></details>
+<details onbeforecopy="alert(1)" contenteditable>test</details>
+<details onbeforecut="alert(1)" contenteditable>test</details>
+<details onbeforepaste="alert(1)" contenteditable>test</details>
+<details onblur=alert(1) tabindex=1 id=x></details><input autofocus>
+<details onclick="alert(1)">test</details>
+<details oncontextmenu="alert(1)">test</details>
+<details oncopy="alert(1)" contenteditable>test</details>
+<details oncut="alert(1)" contenteditable>test</details>
+<details ondblclick="alert(1)">test</details>
+<details onfocusout=alert(1) tabindex=1 id=x></details><input autofocus>
+<details onkeydown="alert(1)" contenteditable>test</details>
+<details onkeypress="alert(1)" contenteditable>test</details>
+<details onkeyup="alert(1)" contenteditable>test</details>
+<details onmousedown="alert(1)">test</details>
+<details onmouseenter="alert(1)">test</details>
+<details onmouseleave="alert(1)">test</details>
+<details onmousemove="alert(1)">test</details>
+<details onmouseout="alert(1)">test</details>
+<details onmouseover="alert(1)">test</details>
+<details onmouseup="alert(1)">test</details>
+<details onpaste="alert(1)" contenteditable>test</details>
+<details ontoggle=alert(1) open>test</details>
+<dfn draggable="true" ondrag="alert(1)">test</dfn>
+<dfn draggable="true" ondragend="alert(1)">test</dfn>
+<dfn draggable="true" ondragenter="alert(1)">test</dfn>
+<dfn draggable="true" ondragleave="alert(1)">test</dfn>
+<dfn draggable="true" ondragstart="alert(1)">test</dfn>
+<dfn id=x tabindex=1 onactivate=alert(1)></dfn>
+<dfn id=x tabindex=1 onbeforeactivate=alert(1)></dfn>
+<dfn id=x tabindex=1 onbeforedeactivate=alert(1)></dfn><input autofocus>
+<dfn id=x tabindex=1 ondeactivate=alert(1)></dfn><input id=y autofocus>
+<dfn id=x tabindex=1 onfocus=alert(1)></dfn>
+<dfn id=x tabindex=1 onfocusin=alert(1)></dfn>
+<dfn onbeforecopy="alert(1)" contenteditable>test</dfn>
+<dfn onbeforecut="alert(1)" contenteditable>test</dfn>
+<dfn onbeforepaste="alert(1)" contenteditable>test</dfn>
+<dfn onblur=alert(1) tabindex=1 id=x></dfn><input autofocus>
+<dfn onclick="alert(1)">test</dfn>
+<dfn oncontextmenu="alert(1)">test</dfn>
+<dfn oncopy="alert(1)" contenteditable>test</dfn>
+<dfn oncut="alert(1)" contenteditable>test</dfn>
+<dfn ondblclick="alert(1)">test</dfn>
+<dfn onfocusout=alert(1) tabindex=1 id=x></dfn><input autofocus>
+<dfn onkeydown="alert(1)" contenteditable>test</dfn>
+<dfn onkeypress="alert(1)" contenteditable>test</dfn>
+<dfn onkeyup="alert(1)" contenteditable>test</dfn>
+<dfn onmousedown="alert(1)">test</dfn>
+<dfn onmouseenter="alert(1)">test</dfn>
+<dfn onmouseleave="alert(1)">test</dfn>
+<dfn onmousemove="alert(1)">test</dfn>
+<dfn onmouseout="alert(1)">test</dfn>
+<dfn onmouseover="alert(1)">test</dfn>
+<dfn onmouseup="alert(1)">test</dfn>
+<dfn onpaste="alert(1)" contenteditable>test</dfn>
+<dialog draggable="true" ondrag="alert(1)">test</dialog>
+<dialog draggable="true" ondragend="alert(1)">test</dialog>
+<dialog draggable="true" ondragenter="alert(1)">test</dialog>
+<dialog draggable="true" ondragleave="alert(1)">test</dialog>
+<dialog draggable="true" ondragstart="alert(1)">test</dialog>
+<dialog id=x tabindex=1 onactivate=alert(1)></dialog>
+<dialog id=x tabindex=1 onbeforeactivate=alert(1)></dialog>
+<dialog id=x tabindex=1 onbeforedeactivate=alert(1)></dialog><input autofocus>
+<dialog id=x tabindex=1 ondeactivate=alert(1)></dialog><input id=y autofocus>
+<dialog id=x tabindex=1 onfocus=alert(1)></dialog>
+<dialog id=x tabindex=1 onfocusin=alert(1)></dialog>
+<dialog onbeforecopy="alert(1)" contenteditable>test</dialog>
+<dialog onbeforecut="alert(1)" contenteditable>test</dialog>
+<dialog onbeforepaste="alert(1)" contenteditable>test</dialog>
+<dialog onblur=alert(1) tabindex=1 id=x></dialog><input autofocus>
+<dialog onclick="alert(1)">test</dialog>
+<dialog oncontextmenu="alert(1)">test</dialog>
+<dialog oncopy="alert(1)" contenteditable>test</dialog>
+<dialog oncut="alert(1)" contenteditable>test</dialog>
+<dialog ondblclick="alert(1)">test</dialog>
+<dialog onfocusout=alert(1) tabindex=1 id=x></dialog><input autofocus>
+<dialog onkeydown="alert(1)" contenteditable>test</dialog>
+<dialog onkeypress="alert(1)" contenteditable>test</dialog>
+<dialog onkeyup="alert(1)" contenteditable>test</dialog>
+<dialog onmousedown="alert(1)">test</dialog>
+<dialog onmouseenter="alert(1)">test</dialog>
+<dialog onmouseleave="alert(1)">test</dialog>
+<dialog onmousemove="alert(1)">test</dialog>
+<dialog onmouseout="alert(1)">test</dialog>
+<dialog onmouseover="alert(1)">test</dialog>
+<dialog onmouseup="alert(1)">test</dialog>
+<dialog onpaste="alert(1)" contenteditable>test</dialog>
+<dir draggable="true" ondrag="alert(1)">test</dir>
+<dir draggable="true" ondragend="alert(1)">test</dir>
+<dir draggable="true" ondragenter="alert(1)">test</dir>
+<dir draggable="true" ondragleave="alert(1)">test</dir>
+<dir draggable="true" ondragstart="alert(1)">test</dir>
+<dir id=x tabindex=1 onactivate=alert(1)></dir>
+<dir id=x tabindex=1 onbeforeactivate=alert(1)></dir>
+<dir id=x tabindex=1 onbeforedeactivate=alert(1)></dir><input autofocus>
+<dir id=x tabindex=1 ondeactivate=alert(1)></dir><input id=y autofocus>
+<dir id=x tabindex=1 onfocus=alert(1)></dir>
+<dir id=x tabindex=1 onfocusin=alert(1)></dir>
+<dir onbeforecopy="alert(1)" contenteditable>test</dir>
+<dir onbeforecut="alert(1)" contenteditable>test</dir>
+<dir onbeforepaste="alert(1)" contenteditable>test</dir>
+<dir onblur=alert(1) tabindex=1 id=x></dir><input autofocus>
+<dir onclick="alert(1)">test</dir>
+<dir oncontextmenu="alert(1)">test</dir>
+<dir oncopy="alert(1)" contenteditable>test</dir>
+<dir oncut="alert(1)" contenteditable>test</dir>
+<dir ondblclick="alert(1)">test</dir>
+<dir onfocusout=alert(1) tabindex=1 id=x></dir><input autofocus>
+<dir onkeydown="alert(1)" contenteditable>test</dir>
+<dir onkeypress="alert(1)" contenteditable>test</dir>
+<dir onkeyup="alert(1)" contenteditable>test</dir>
+<dir onmousedown="alert(1)">test</dir>
+<dir onmouseenter="alert(1)">test</dir>
+<dir onmouseleave="alert(1)">test</dir>
+<dir onmousemove="alert(1)">test</dir>
+<dir onmouseout="alert(1)">test</dir>
+<dir onmouseover="alert(1)">test</dir>
+<dir onmouseup="alert(1)">test</dir>
+<dir onpaste="alert(1)" contenteditable>test</dir>
+<div draggable="true" contenteditable>drag me</div><a ondragover=alert(1) contenteditable>drop here</a>
+<div draggable="true" contenteditable>drag me</div><a ondrop=alert(1) contenteditable>drop here</a>
+<div draggable="true" contenteditable>drag me</div><abbr ondragover=alert(1) contenteditable>drop here</abbr>
+<div draggable="true" contenteditable>drag me</div><abbr ondrop=alert(1) contenteditable>drop here</abbr>
+<div draggable="true" contenteditable>drag me</div><acronym ondragover=alert(1) contenteditable>drop here</acronym>
+<div draggable="true" contenteditable>drag me</div><acronym ondrop=alert(1) contenteditable>drop here</acronym>
+<div draggable="true" contenteditable>drag me</div><address ondragover=alert(1) contenteditable>drop here</address>
+<div draggable="true" contenteditable>drag me</div><address ondrop=alert(1) contenteditable>drop here</address>
+<div draggable="true" contenteditable>drag me</div><applet ondragover=alert(1) contenteditable>drop here</applet>
+<div draggable="true" contenteditable>drag me</div><applet ondrop=alert(1) contenteditable>drop here</applet>
+<div draggable="true" contenteditable>drag me</div><area ondragover=alert(1) contenteditable>drop here</area>
+<div draggable="true" contenteditable>drag me</div><area ondrop=alert(1) contenteditable>drop here</area>
+<div draggable="true" contenteditable>drag me</div><article ondragover=alert(1) contenteditable>drop here</article>
+<div draggable="true" contenteditable>drag me</div><article ondrop=alert(1) contenteditable>drop here</article>
+<div draggable="true" contenteditable>drag me</div><aside ondragover=alert(1) contenteditable>drop here</aside>
+<div draggable="true" contenteditable>drag me</div><aside ondrop=alert(1) contenteditable>drop here</aside>
+<div draggable="true" contenteditable>drag me</div><audio ondragover=alert(1) contenteditable>drop here</audio>
+<div draggable="true" contenteditable>drag me</div><audio ondrop=alert(1) contenteditable>drop here</audio>
+<div draggable="true" contenteditable>drag me</div><b ondragover=alert(1) contenteditable>drop here</b>
+<div draggable="true" contenteditable>drag me</div><b ondrop=alert(1) contenteditable>drop here</b>
+<div draggable="true" contenteditable>drag me</div><base ondragover=alert(1) contenteditable>drop here</base>
+<div draggable="true" contenteditable>drag me</div><base ondrop=alert(1) contenteditable>drop here</base>
+<div draggable="true" contenteditable>drag me</div><basefont ondragover=alert(1) contenteditable>drop here</basefont>
+<div draggable="true" contenteditable>drag me</div><basefont ondrop=alert(1) contenteditable>drop here</basefont>
+<div draggable="true" contenteditable>drag me</div><bdi ondragover=alert(1) contenteditable>drop here</bdi>
+<div draggable="true" contenteditable>drag me</div><bdi ondrop=alert(1) contenteditable>drop here</bdi>
+<div draggable="true" contenteditable>drag me</div><bdo ondragover=alert(1) contenteditable>drop here</bdo>
+<div draggable="true" contenteditable>drag me</div><bdo ondrop=alert(1) contenteditable>drop here</bdo>
+<div draggable="true" contenteditable>drag me</div><bgsound ondragover=alert(1) contenteditable>drop here</bgsound>
+<div draggable="true" contenteditable>drag me</div><bgsound ondrop=alert(1) contenteditable>drop here</bgsound>
+<div draggable="true" contenteditable>drag me</div><big ondragover=alert(1) contenteditable>drop here</big>
+<div draggable="true" contenteditable>drag me</div><big ondrop=alert(1) contenteditable>drop here</big>
+<div draggable="true" contenteditable>drag me</div><blink ondragover=alert(1) contenteditable>drop here</blink>
+<div draggable="true" contenteditable>drag me</div><blink ondrop=alert(1) contenteditable>drop here</blink>
+<div draggable="true" contenteditable>drag me</div><blockquote ondragover=alert(1) contenteditable>drop here</blockquote>
+<div draggable="true" contenteditable>drag me</div><blockquote ondrop=alert(1) contenteditable>drop here</blockquote>
+<div draggable="true" contenteditable>drag me</div><body ondragover=alert(1) contenteditable>drop here</body>
+<div draggable="true" contenteditable>drag me</div><body ondrop=alert(1) contenteditable>drop here</body>
+<div draggable="true" contenteditable>drag me</div><br ondragover=alert(1) contenteditable>drop here</br>
+<div draggable="true" contenteditable>drag me</div><br ondrop=alert(1) contenteditable>drop here</br>
+<div draggable="true" contenteditable>drag me</div><button ondragover=alert(1) contenteditable>drop here</button>
+<div draggable="true" contenteditable>drag me</div><button ondrop=alert(1) contenteditable>drop here</button>
+<div draggable="true" contenteditable>drag me</div><canvas ondragover=alert(1) contenteditable>drop here</canvas>
+<div draggable="true" contenteditable>drag me</div><canvas ondrop=alert(1) contenteditable>drop here</canvas>
+<div draggable="true" contenteditable>drag me</div><caption ondragover=alert(1) contenteditable>drop here</caption>
+<div draggable="true" contenteditable>drag me</div><caption ondrop=alert(1) contenteditable>drop here</caption>
+<div draggable="true" contenteditable>drag me</div><center ondragover=alert(1) contenteditable>drop here</center>
+<div draggable="true" contenteditable>drag me</div><center ondrop=alert(1) contenteditable>drop here</center>
+<div draggable="true" contenteditable>drag me</div><cite ondragover=alert(1) contenteditable>drop here</cite>
+<div draggable="true" contenteditable>drag me</div><cite ondrop=alert(1) contenteditable>drop here</cite>
+<div draggable="true" contenteditable>drag me</div><code ondragover=alert(1) contenteditable>drop here</code>
+<div draggable="true" contenteditable>drag me</div><code ondrop=alert(1) contenteditable>drop here</code>
+<div draggable="true" contenteditable>drag me</div><col ondragover=alert(1) contenteditable>drop here</col>
+<div draggable="true" contenteditable>drag me</div><col ondrop=alert(1) contenteditable>drop here</col>
+<div draggable="true" contenteditable>drag me</div><colgroup ondragover=alert(1) contenteditable>drop here</colgroup>
+<div draggable="true" contenteditable>drag me</div><colgroup ondrop=alert(1) contenteditable>drop here</colgroup>
+<div draggable="true" contenteditable>drag me</div><command ondragover=alert(1) contenteditable>drop here</command>
+<div draggable="true" contenteditable>drag me</div><command ondrop=alert(1) contenteditable>drop here</command>
+<div draggable="true" contenteditable>drag me</div><content ondragover=alert(1) contenteditable>drop here</content>
+<div draggable="true" contenteditable>drag me</div><content ondrop=alert(1) contenteditable>drop here</content>
+<div draggable="true" contenteditable>drag me</div><data ondragover=alert(1) contenteditable>drop here</data>
+<div draggable="true" contenteditable>drag me</div><data ondrop=alert(1) contenteditable>drop here</data>
+<div draggable="true" contenteditable>drag me</div><datalist ondragover=alert(1) contenteditable>drop here</datalist>
+<div draggable="true" contenteditable>drag me</div><datalist ondrop=alert(1) contenteditable>drop here</datalist>
+<div draggable="true" contenteditable>drag me</div><dd ondragover=alert(1) contenteditable>drop here</dd>
+<div draggable="true" contenteditable>drag me</div><dd ondrop=alert(1) contenteditable>drop here</dd>
+<div draggable="true" contenteditable>drag me</div><del ondragover=alert(1) contenteditable>drop here</del>
+<div draggable="true" contenteditable>drag me</div><del ondrop=alert(1) contenteditable>drop here</del>
+<div draggable="true" contenteditable>drag me</div><details ondragover=alert(1) contenteditable>drop here</details>
+<div draggable="true" contenteditable>drag me</div><details ondrop=alert(1) contenteditable>drop here</details>
+<div draggable="true" contenteditable>drag me</div><dfn ondragover=alert(1) contenteditable>drop here</dfn>
+<div draggable="true" contenteditable>drag me</div><dfn ondrop=alert(1) contenteditable>drop here</dfn>
+<div draggable="true" contenteditable>drag me</div><dialog ondragover=alert(1) contenteditable>drop here</dialog>
+<div draggable="true" contenteditable>drag me</div><dialog ondrop=alert(1) contenteditable>drop here</dialog>
+<div draggable="true" contenteditable>drag me</div><dir ondragover=alert(1) contenteditable>drop here</dir>
+<div draggable="true" contenteditable>drag me</div><dir ondrop=alert(1) contenteditable>drop here</dir>
+<div draggable="true" contenteditable>drag me</div><div ondragover=alert(1) contenteditable>drop here</div>
+<div draggable="true" contenteditable>drag me</div><div ondrop=alert(1) contenteditable>drop here</div>
+<div draggable="true" contenteditable>drag me</div><dl ondragover=alert(1) contenteditable>drop here</dl>
+<div draggable="true" contenteditable>drag me</div><dl ondrop=alert(1) contenteditable>drop here</dl>
+<div draggable="true" contenteditable>drag me</div><dt ondragover=alert(1) contenteditable>drop here</dt>
+<div draggable="true" contenteditable>drag me</div><dt ondrop=alert(1) contenteditable>drop here</dt>
+<div draggable="true" contenteditable>drag me</div><element ondragover=alert(1) contenteditable>drop here</element>
+<div draggable="true" contenteditable>drag me</div><element ondrop=alert(1) contenteditable>drop here</element>
+<div draggable="true" contenteditable>drag me</div><em ondragover=alert(1) contenteditable>drop here</em>
+<div draggable="true" contenteditable>drag me</div><em ondrop=alert(1) contenteditable>drop here</em>
+<div draggable="true" contenteditable>drag me</div><embed ondragover=alert(1) contenteditable>drop here</embed>
+<div draggable="true" contenteditable>drag me</div><embed ondrop=alert(1) contenteditable>drop here</embed>
+<div draggable="true" contenteditable>drag me</div><fieldset ondragover=alert(1) contenteditable>drop here</fieldset>
+<div draggable="true" contenteditable>drag me</div><fieldset ondrop=alert(1) contenteditable>drop here</fieldset>
+<div draggable="true" contenteditable>drag me</div><figcaption ondragover=alert(1) contenteditable>drop here</figcaption>
+<div draggable="true" contenteditable>drag me</div><figcaption ondrop=alert(1) contenteditable>drop here</figcaption>
+<div draggable="true" contenteditable>drag me</div><figure ondragover=alert(1) contenteditable>drop here</figure>
+<div draggable="true" contenteditable>drag me</div><figure ondrop=alert(1) contenteditable>drop here</figure>
+<div draggable="true" contenteditable>drag me</div><font ondragover=alert(1) contenteditable>drop here</font>
+<div draggable="true" contenteditable>drag me</div><font ondrop=alert(1) contenteditable>drop here</font>
+<div draggable="true" contenteditable>drag me</div><footer ondragover=alert(1) contenteditable>drop here</footer>
+<div draggable="true" contenteditable>drag me</div><footer ondrop=alert(1) contenteditable>drop here</footer>
+<div draggable="true" contenteditable>drag me</div><form ondragover=alert(1) contenteditable>drop here</form>
+<div draggable="true" contenteditable>drag me</div><form ondrop=alert(1) contenteditable>drop here</form>
+<div draggable="true" contenteditable>drag me</div><frame ondragover=alert(1) contenteditable>drop here</frame>
+<div draggable="true" contenteditable>drag me</div><frame ondrop=alert(1) contenteditable>drop here</frame>
+<div draggable="true" contenteditable>drag me</div><frameset ondragover=alert(1) contenteditable>drop here</frameset>
+<div draggable="true" contenteditable>drag me</div><frameset ondrop=alert(1) contenteditable>drop here</frameset>
+<div draggable="true" contenteditable>drag me</div><h1 ondragover=alert(1) contenteditable>drop here</h1>
+<div draggable="true" contenteditable>drag me</div><h1 ondrop=alert(1) contenteditable>drop here</h1>
+<div draggable="true" contenteditable>drag me</div><head ondragover=alert(1) contenteditable>drop here</head>
+<div draggable="true" contenteditable>drag me</div><head ondrop=alert(1) contenteditable>drop here</head>
+<div draggable="true" contenteditable>drag me</div><header ondragover=alert(1) contenteditable>drop here</header>
+<div draggable="true" contenteditable>drag me</div><header ondrop=alert(1) contenteditable>drop here</header>
+<div draggable="true" contenteditable>drag me</div><hgroup ondragover=alert(1) contenteditable>drop here</hgroup>
+<div draggable="true" contenteditable>drag me</div><hgroup ondrop=alert(1) contenteditable>drop here</hgroup>
+<div draggable="true" contenteditable>drag me</div><hr ondragover=alert(1) contenteditable>drop here</hr>
+<div draggable="true" contenteditable>drag me</div><hr ondrop=alert(1) contenteditable>drop here</hr>
+<div draggable="true" contenteditable>drag me</div><html ondragover=alert(1) contenteditable>drop here</html>
+<div draggable="true" contenteditable>drag me</div><html ondrop=alert(1) contenteditable>drop here</html>
+<div draggable="true" contenteditable>drag me</div><i ondragover=alert(1) contenteditable>drop here</i>
+<div draggable="true" contenteditable>drag me</div><i ondrop=alert(1) contenteditable>drop here</i>
+<div draggable="true" contenteditable>drag me</div><iframe ondragover=alert(1) contenteditable>drop here</iframe>
+<div draggable="true" contenteditable>drag me</div><iframe ondrop=alert(1) contenteditable>drop here</iframe>
+<div draggable="true" contenteditable>drag me</div><image ondragover=alert(1) contenteditable>drop here</image>
+<div draggable="true" contenteditable>drag me</div><image ondrop=alert(1) contenteditable>drop here</image>
+<div draggable="true" contenteditable>drag me</div><img ondragover=alert(1) contenteditable>drop here</img>
+<div draggable="true" contenteditable>drag me</div><img ondrop=alert(1) contenteditable>drop here</img>
+<div draggable="true" contenteditable>drag me</div><input ondragover=alert(1) contenteditable>drop here</input>
+<div draggable="true" contenteditable>drag me</div><input ondrop=alert(1) contenteditable>drop here</input>
+<div draggable="true" contenteditable>drag me</div><ins ondragover=alert(1) contenteditable>drop here</ins>
+<div draggable="true" contenteditable>drag me</div><ins ondrop=alert(1) contenteditable>drop here</ins>
+<div draggable="true" contenteditable>drag me</div><isindex ondragover=alert(1) contenteditable>drop here</isindex>
+<div draggable="true" contenteditable>drag me</div><isindex ondrop=alert(1) contenteditable>drop here</isindex>
+<div draggable="true" contenteditable>drag me</div><kbd ondragover=alert(1) contenteditable>drop here</kbd>
+<div draggable="true" contenteditable>drag me</div><kbd ondrop=alert(1) contenteditable>drop here</kbd>
+<div draggable="true" contenteditable>drag me</div><keygen ondragover=alert(1) contenteditable>drop here</keygen>
+<div draggable="true" contenteditable>drag me</div><keygen ondrop=alert(1) contenteditable>drop here</keygen>
+<div draggable="true" contenteditable>drag me</div><label ondragover=alert(1) contenteditable>drop here</label>
+<div draggable="true" contenteditable>drag me</div><label ondrop=alert(1) contenteditable>drop here</label>
+<div draggable="true" contenteditable>drag me</div><legend ondragover=alert(1) contenteditable>drop here</legend>
+<div draggable="true" contenteditable>drag me</div><legend ondrop=alert(1) contenteditable>drop here</legend>
+<div draggable="true" contenteditable>drag me</div><li ondragover=alert(1) contenteditable>drop here</li>
+<div draggable="true" contenteditable>drag me</div><li ondrop=alert(1) contenteditable>drop here</li>
+<div draggable="true" contenteditable>drag me</div><link ondragover=alert(1) contenteditable>drop here</link>
+<div draggable="true" contenteditable>drag me</div><link ondrop=alert(1) contenteditable>drop here</link>
+<div draggable="true" contenteditable>drag me</div><listing ondragover=alert(1) contenteditable>drop here</listing>
+<div draggable="true" contenteditable>drag me</div><listing ondrop=alert(1) contenteditable>drop here</listing>
+<div draggable="true" contenteditable>drag me</div><main ondragover=alert(1) contenteditable>drop here</main>
+<div draggable="true" contenteditable>drag me</div><main ondrop=alert(1) contenteditable>drop here</main>
+<div draggable="true" contenteditable>drag me</div><map ondragover=alert(1) contenteditable>drop here</map>
+<div draggable="true" contenteditable>drag me</div><map ondrop=alert(1) contenteditable>drop here</map>
+<div draggable="true" contenteditable>drag me</div><mark ondragover=alert(1) contenteditable>drop here</mark>
+<div draggable="true" contenteditable>drag me</div><mark ondrop=alert(1) contenteditable>drop here</mark>
+<div draggable="true" contenteditable>drag me</div><marquee ondragover=alert(1) contenteditable>drop here</marquee>
+<div draggable="true" contenteditable>drag me</div><marquee ondrop=alert(1) contenteditable>drop here</marquee>
+<div draggable="true" contenteditable>drag me</div><menu ondragover=alert(1) contenteditable>drop here</menu>
+<div draggable="true" contenteditable>drag me</div><menu ondrop=alert(1) contenteditable>drop here</menu>
+<div draggable="true" contenteditable>drag me</div><menuitem ondragover=alert(1) contenteditable>drop here</menuitem>
+<div draggable="true" contenteditable>drag me</div><menuitem ondrop=alert(1) contenteditable>drop here</menuitem>
+<div draggable="true" contenteditable>drag me</div><meta ondragover=alert(1) contenteditable>drop here</meta>
+<div draggable="true" contenteditable>drag me</div><meta ondrop=alert(1) contenteditable>drop here</meta>
+<div draggable="true" contenteditable>drag me</div><meter ondragover=alert(1) contenteditable>drop here</meter>
+<div draggable="true" contenteditable>drag me</div><meter ondrop=alert(1) contenteditable>drop here</meter>
+<div draggable="true" contenteditable>drag me</div><multicol ondragover=alert(1) contenteditable>drop here</multicol>
+<div draggable="true" contenteditable>drag me</div><multicol ondrop=alert(1) contenteditable>drop here</multicol>
+<div draggable="true" contenteditable>drag me</div><nav ondragover=alert(1) contenteditable>drop here</nav>
+<div draggable="true" contenteditable>drag me</div><nav ondrop=alert(1) contenteditable>drop here</nav>
+<div draggable="true" contenteditable>drag me</div><nextid ondragover=alert(1) contenteditable>drop here</nextid>
+<div draggable="true" contenteditable>drag me</div><nextid ondrop=alert(1) contenteditable>drop here</nextid>
+<div draggable="true" contenteditable>drag me</div><nobr ondragover=alert(1) contenteditable>drop here</nobr>
+<div draggable="true" contenteditable>drag me</div><nobr ondrop=alert(1) contenteditable>drop here</nobr>
+<div draggable="true" contenteditable>drag me</div><noembed ondragover=alert(1) contenteditable>drop here</noembed>
+<div draggable="true" contenteditable>drag me</div><noembed ondrop=alert(1) contenteditable>drop here</noembed>
+<div draggable="true" contenteditable>drag me</div><noframes ondragover=alert(1) contenteditable>drop here</noframes>
+<div draggable="true" contenteditable>drag me</div><noframes ondrop=alert(1) contenteditable>drop here</noframes>
+<div draggable="true" contenteditable>drag me</div><noscript ondragover=alert(1) contenteditable>drop here</noscript>
+<div draggable="true" contenteditable>drag me</div><noscript ondrop=alert(1) contenteditable>drop here</noscript>
+<div draggable="true" contenteditable>drag me</div><object ondragover=alert(1) contenteditable>drop here</object>
+<div draggable="true" contenteditable>drag me</div><object ondrop=alert(1) contenteditable>drop here</object>
+<div draggable="true" contenteditable>drag me</div><ol ondragover=alert(1) contenteditable>drop here</ol>
+<div draggable="true" contenteditable>drag me</div><ol ondrop=alert(1) contenteditable>drop here</ol>
+<div draggable="true" contenteditable>drag me</div><optgroup ondragover=alert(1) contenteditable>drop here</optgroup>
+<div draggable="true" contenteditable>drag me</div><optgroup ondrop=alert(1) contenteditable>drop here</optgroup>
+<div draggable="true" contenteditable>drag me</div><option ondragover=alert(1) contenteditable>drop here</option>
+<div draggable="true" contenteditable>drag me</div><option ondrop=alert(1) contenteditable>drop here</option>
+<div draggable="true" contenteditable>drag me</div><output ondragover=alert(1) contenteditable>drop here</output>
+<div draggable="true" contenteditable>drag me</div><output ondrop=alert(1) contenteditable>drop here</output>
+<div draggable="true" contenteditable>drag me</div><p ondragover=alert(1) contenteditable>drop here</p>
+<div draggable="true" contenteditable>drag me</div><p ondrop=alert(1) contenteditable>drop here</p>
+<div draggable="true" contenteditable>drag me</div><param ondragover=alert(1) contenteditable>drop here</param>
+<div draggable="true" contenteditable>drag me</div><param ondrop=alert(1) contenteditable>drop here</param>
+<div draggable="true" contenteditable>drag me</div><picture ondragover=alert(1) contenteditable>drop here</picture>
+<div draggable="true" contenteditable>drag me</div><picture ondrop=alert(1) contenteditable>drop here</picture>
+<div draggable="true" contenteditable>drag me</div><plaintext ondragover=alert(1) contenteditable>drop here</plaintext>
+<div draggable="true" contenteditable>drag me</div><plaintext ondrop=alert(1) contenteditable>drop here</plaintext>
+<div draggable="true" contenteditable>drag me</div><pre ondragover=alert(1) contenteditable>drop here</pre>
+<div draggable="true" contenteditable>drag me</div><pre ondrop=alert(1) contenteditable>drop here</pre>
+<div draggable="true" contenteditable>drag me</div><progress ondragover=alert(1) contenteditable>drop here</progress>
+<div draggable="true" contenteditable>drag me</div><progress ondrop=alert(1) contenteditable>drop here</progress>
+<div draggable="true" contenteditable>drag me</div><q ondragover=alert(1) contenteditable>drop here</q>
+<div draggable="true" contenteditable>drag me</div><q ondrop=alert(1) contenteditable>drop here</q>
+<div draggable="true" contenteditable>drag me</div><rb ondragover=alert(1) contenteditable>drop here</rb>
+<div draggable="true" contenteditable>drag me</div><rb ondrop=alert(1) contenteditable>drop here</rb>
+<div draggable="true" contenteditable>drag me</div><rp ondragover=alert(1) contenteditable>drop here</rp>
+<div draggable="true" contenteditable>drag me</div><rp ondrop=alert(1) contenteditable>drop here</rp>
+<div draggable="true" contenteditable>drag me</div><rt ondragover=alert(1) contenteditable>drop here</rt>
+<div draggable="true" contenteditable>drag me</div><rt ondrop=alert(1) contenteditable>drop here</rt>
+<div draggable="true" contenteditable>drag me</div><rtc ondragover=alert(1) contenteditable>drop here</rtc>
+<div draggable="true" contenteditable>drag me</div><rtc ondrop=alert(1) contenteditable>drop here</rtc>
+<div draggable="true" contenteditable>drag me</div><ruby ondragover=alert(1) contenteditable>drop here</ruby>
+<div draggable="true" contenteditable>drag me</div><ruby ondrop=alert(1) contenteditable>drop here</ruby>
+<div draggable="true" contenteditable>drag me</div><s ondragover=alert(1) contenteditable>drop here</s>
+<div draggable="true" contenteditable>drag me</div><s ondrop=alert(1) contenteditable>drop here</s>
+<div draggable="true" contenteditable>drag me</div><samp ondragover=alert(1) contenteditable>drop here</samp>
+<div draggable="true" contenteditable>drag me</div><samp ondrop=alert(1) contenteditable>drop here</samp>
+<div draggable="true" contenteditable>drag me</div><script ondragover=alert(1) contenteditable>drop here</script>
+<div draggable="true" contenteditable>drag me</div><script ondrop=alert(1) contenteditable>drop here</script>
+<div draggable="true" contenteditable>drag me</div><section ondragover=alert(1) contenteditable>drop here</section>
+<div draggable="true" contenteditable>drag me</div><section ondrop=alert(1) contenteditable>drop here</section>
+<div draggable="true" contenteditable>drag me</div><select ondragover=alert(1) contenteditable>drop here</select>
+<div draggable="true" contenteditable>drag me</div><select ondrop=alert(1) contenteditable>drop here</select>
+<div draggable="true" contenteditable>drag me</div><shadow ondragover=alert(1) contenteditable>drop here</shadow>
+<div draggable="true" contenteditable>drag me</div><shadow ondrop=alert(1) contenteditable>drop here</shadow>
+<div draggable="true" contenteditable>drag me</div><slot ondragover=alert(1) contenteditable>drop here</slot>
+<div draggable="true" contenteditable>drag me</div><slot ondrop=alert(1) contenteditable>drop here</slot>
+<div draggable="true" contenteditable>drag me</div><small ondragover=alert(1) contenteditable>drop here</small>
+<div draggable="true" contenteditable>drag me</div><small ondrop=alert(1) contenteditable>drop here</small>
+<div draggable="true" contenteditable>drag me</div><source ondragover=alert(1) contenteditable>drop here</source>
+<div draggable="true" contenteditable>drag me</div><source ondrop=alert(1) contenteditable>drop here</source>
+<div draggable="true" contenteditable>drag me</div><spacer ondragover=alert(1) contenteditable>drop here</spacer>
+<div draggable="true" contenteditable>drag me</div><spacer ondrop=alert(1) contenteditable>drop here</spacer>
+<div draggable="true" contenteditable>drag me</div><span ondragover=alert(1) contenteditable>drop here</span>
+<div draggable="true" contenteditable>drag me</div><span ondrop=alert(1) contenteditable>drop here</span>
+<div draggable="true" contenteditable>drag me</div><strike ondragover=alert(1) contenteditable>drop here</strike>
+<div draggable="true" contenteditable>drag me</div><strike ondrop=alert(1) contenteditable>drop here</strike>
+<div draggable="true" contenteditable>drag me</div><strong ondragover=alert(1) contenteditable>drop here</strong>
+<div draggable="true" contenteditable>drag me</div><strong ondrop=alert(1) contenteditable>drop here</strong>
+<div draggable="true" contenteditable>drag me</div><style ondragover=alert(1) contenteditable>drop here</style>
+<div draggable="true" contenteditable>drag me</div><style ondrop=alert(1) contenteditable>drop here</style>
+<div draggable="true" contenteditable>drag me</div><sub ondragover=alert(1) contenteditable>drop here</sub>
+<div draggable="true" contenteditable>drag me</div><sub ondrop=alert(1) contenteditable>drop here</sub>
+<div draggable="true" contenteditable>drag me</div><summary ondragover=alert(1) contenteditable>drop here</summary>
+<div draggable="true" contenteditable>drag me</div><summary ondrop=alert(1) contenteditable>drop here</summary>
+<div draggable="true" contenteditable>drag me</div><sup ondragover=alert(1) contenteditable>drop here</sup>
+<div draggable="true" contenteditable>drag me</div><sup ondrop=alert(1) contenteditable>drop here</sup>
+<div draggable="true" contenteditable>drag me</div><svg ondragover=alert(1) contenteditable>drop here</svg>
+<div draggable="true" contenteditable>drag me</div><svg ondrop=alert(1) contenteditable>drop here</svg>
+<div draggable="true" contenteditable>drag me</div><table ondragover=alert(1) contenteditable>drop here</table>
+<div draggable="true" contenteditable>drag me</div><table ondrop=alert(1) contenteditable>drop here</table>
+<div draggable="true" contenteditable>drag me</div><tbody ondragover=alert(1) contenteditable>drop here</tbody>
+<div draggable="true" contenteditable>drag me</div><tbody ondrop=alert(1) contenteditable>drop here</tbody>
+<div draggable="true" contenteditable>drag me</div><td ondragover=alert(1) contenteditable>drop here</td>
+<div draggable="true" contenteditable>drag me</div><td ondrop=alert(1) contenteditable>drop here</td>
+<div draggable="true" contenteditable>drag me</div><template ondragover=alert(1) contenteditable>drop here</template>
+<div draggable="true" contenteditable>drag me</div><template ondrop=alert(1) contenteditable>drop here</template>
+<div draggable="true" contenteditable>drag me</div><textarea ondragover=alert(1) contenteditable>drop here</textarea>
+<div draggable="true" contenteditable>drag me</div><textarea ondrop=alert(1) contenteditable>drop here</textarea>
+<div draggable="true" contenteditable>drag me</div><tfoot ondragover=alert(1) contenteditable>drop here</tfoot>
+<div draggable="true" contenteditable>drag me</div><tfoot ondrop=alert(1) contenteditable>drop here</tfoot>
+<div draggable="true" contenteditable>drag me</div><th ondragover=alert(1) contenteditable>drop here</th>
+<div draggable="true" contenteditable>drag me</div><th ondrop=alert(1) contenteditable>drop here</th>
+<div draggable="true" contenteditable>drag me</div><thead ondragover=alert(1) contenteditable>drop here</thead>
+<div draggable="true" contenteditable>drag me</div><thead ondrop=alert(1) contenteditable>drop here</thead>
+<div draggable="true" contenteditable>drag me</div><time ondragover=alert(1) contenteditable>drop here</time>
+<div draggable="true" contenteditable>drag me</div><time ondrop=alert(1) contenteditable>drop here</time>
+<div draggable="true" contenteditable>drag me</div><title ondragover=alert(1) contenteditable>drop here</title>
+<div draggable="true" contenteditable>drag me</div><title ondrop=alert(1) contenteditable>drop here</title>
+<div draggable="true" contenteditable>drag me</div><tr ondragover=alert(1) contenteditable>drop here</tr>
+<div draggable="true" contenteditable>drag me</div><tr ondrop=alert(1) contenteditable>drop here</tr>
+<div draggable="true" contenteditable>drag me</div><track ondragover=alert(1) contenteditable>drop here</track>
+<div draggable="true" contenteditable>drag me</div><track ondrop=alert(1) contenteditable>drop here</track>
+<div draggable="true" contenteditable>drag me</div><tt ondragover=alert(1) contenteditable>drop here</tt>
+<div draggable="true" contenteditable>drag me</div><tt ondrop=alert(1) contenteditable>drop here</tt>
+<div draggable="true" contenteditable>drag me</div><u ondragover=alert(1) contenteditable>drop here</u>
+<div draggable="true" contenteditable>drag me</div><u ondrop=alert(1) contenteditable>drop here</u>
+<div draggable="true" contenteditable>drag me</div><ul ondragover=alert(1) contenteditable>drop here</ul>
+<div draggable="true" contenteditable>drag me</div><ul ondrop=alert(1) contenteditable>drop here</ul>
+<div draggable="true" contenteditable>drag me</div><var ondragover=alert(1) contenteditable>drop here</var>
+<div draggable="true" contenteditable>drag me</div><var ondrop=alert(1) contenteditable>drop here</var>
+<div draggable="true" contenteditable>drag me</div><video ondragover=alert(1) contenteditable>drop here</video>
+<div draggable="true" contenteditable>drag me</div><video ondrop=alert(1) contenteditable>drop here</video>
+<div draggable="true" contenteditable>drag me</div><wbr ondragover=alert(1) contenteditable>drop here</wbr>
+<div draggable="true" contenteditable>drag me</div><wbr ondrop=alert(1) contenteditable>drop here</wbr>
+<div draggable="true" contenteditable>drag me</div><xmp ondragover=alert(1) contenteditable>drop here</xmp>
+<div draggable="true" contenteditable>drag me</div><xmp ondrop=alert(1) contenteditable>drop here</xmp>
+<div draggable="true" ondrag="alert(1)">test</div>
+<div draggable="true" ondragend="alert(1)">test</div>
+<div draggable="true" ondragenter="alert(1)">test</div>
+<div draggable="true" ondragleave="alert(1)">test</div>
+<div draggable="true" ondragstart="alert(1)">test</div>
+<div id=x tabindex=1 onactivate=alert(1)></div>
+<div id=x tabindex=1 onbeforeactivate=alert(1)></div>
+<div id=x tabindex=1 onbeforedeactivate=alert(1)></div><input autofocus>
+<div id=x tabindex=1 ondeactivate=alert(1)></div><input id=y autofocus>
+<div id=x tabindex=1 onfocus=alert(1)></div>
+<div id=x tabindex=1 onfocusin=alert(1)></div>
+<div onbeforecopy="alert(1)" contenteditable>test</div>
+<div onbeforecut="alert(1)" contenteditable>test</div>
+<div onbeforepaste="alert(1)" contenteditable>test</div>
+<div onblur=alert(1) tabindex=1 id=x></div><input autofocus>
+<div onclick="alert(1)">test</div>
+<div oncontextmenu="alert(1)">test</div>
+<div oncopy="alert(1)" contenteditable>test</div>
+<div oncut="alert(1)" contenteditable>test</div>
+<div ondblclick="alert(1)">test</div>
+<div onfocusout=alert(1) tabindex=1 id=x></div><input autofocus>
+<div onkeydown="alert(1)" contenteditable>test</div>
+<div onkeypress="alert(1)" contenteditable>test</div>
+<div onkeyup="alert(1)" contenteditable>test</div>
+<div onmousedown="alert(1)">test</div>
+<div onmouseenter="alert(1)">test</div>
+<div onmouseleave="alert(1)">test</div>
+<div onmousemove="alert(1)">test</div>
+<div onmouseout="alert(1)">test</div>
+<div onmouseover="alert(1)">test</div>
+<div onmouseup="alert(1)">test</div>
+<div onpaste="alert(1)" contenteditable>test</div>
+<dl draggable="true" ondrag="alert(1)">test</dl>
+<dl draggable="true" ondragend="alert(1)">test</dl>
+<dl draggable="true" ondragenter="alert(1)">test</dl>
+<dl draggable="true" ondragleave="alert(1)">test</dl>
+<dl draggable="true" ondragstart="alert(1)">test</dl>
+<dl id=x tabindex=1 onactivate=alert(1)></dl>
+<dl id=x tabindex=1 onbeforeactivate=alert(1)></dl>
+<dl id=x tabindex=1 onbeforedeactivate=alert(1)></dl><input autofocus>
+<dl id=x tabindex=1 ondeactivate=alert(1)></dl><input id=y autofocus>
+<dl id=x tabindex=1 onfocus=alert(1)></dl>
+<dl id=x tabindex=1 onfocusin=alert(1)></dl>
+<dl onbeforecopy="alert(1)" contenteditable>test</dl>
+<dl onbeforecut="alert(1)" contenteditable>test</dl>
+<dl onbeforepaste="alert(1)" contenteditable>test</dl>
+<dl onblur=alert(1) tabindex=1 id=x></dl><input autofocus>
+<dl onclick="alert(1)">test</dl>
+<dl oncontextmenu="alert(1)">test</dl>
+<dl oncopy="alert(1)" contenteditable>test</dl>
+<dl oncut="alert(1)" contenteditable>test</dl>
+<dl ondblclick="alert(1)">test</dl>
+<dl onfocusout=alert(1) tabindex=1 id=x></dl><input autofocus>
+<dl onkeydown="alert(1)" contenteditable>test</dl>
+<dl onkeypress="alert(1)" contenteditable>test</dl>
+<dl onkeyup="alert(1)" contenteditable>test</dl>
+<dl onmousedown="alert(1)">test</dl>
+<dl onmouseenter="alert(1)">test</dl>
+<dl onmouseleave="alert(1)">test</dl>
+<dl onmousemove="alert(1)">test</dl>
+<dl onmouseout="alert(1)">test</dl>
+<dl onmouseover="alert(1)">test</dl>
+<dl onmouseup="alert(1)">test</dl>
+<dl onpaste="alert(1)" contenteditable>test</dl>
+<dt draggable="true" ondrag="alert(1)">test</dt>
+<dt draggable="true" ondragend="alert(1)">test</dt>
+<dt draggable="true" ondragenter="alert(1)">test</dt>
+<dt draggable="true" ondragleave="alert(1)">test</dt>
+<dt draggable="true" ondragstart="alert(1)">test</dt>
+<dt id=x tabindex=1 onactivate=alert(1)></dt>
+<dt id=x tabindex=1 onbeforeactivate=alert(1)></dt>
+<dt id=x tabindex=1 onbeforedeactivate=alert(1)></dt><input autofocus>
+<dt id=x tabindex=1 ondeactivate=alert(1)></dt><input id=y autofocus>
+<dt id=x tabindex=1 onfocus=alert(1)></dt>
+<dt id=x tabindex=1 onfocusin=alert(1)></dt>
+<dt onbeforecopy="alert(1)" contenteditable>test</dt>
+<dt onbeforecut="alert(1)" contenteditable>test</dt>
+<dt onbeforepaste="alert(1)" contenteditable>test</dt>
+<dt onblur=alert(1) tabindex=1 id=x></dt><input autofocus>
+<dt onclick="alert(1)">test</dt>
+<dt oncontextmenu="alert(1)">test</dt>
+<dt oncopy="alert(1)" contenteditable>test</dt>
+<dt oncut="alert(1)" contenteditable>test</dt>
+<dt ondblclick="alert(1)">test</dt>
+<dt onfocusout=alert(1) tabindex=1 id=x></dt><input autofocus>
+<dt onkeydown="alert(1)" contenteditable>test</dt>
+<dt onkeypress="alert(1)" contenteditable>test</dt>
+<dt onkeyup="alert(1)" contenteditable>test</dt>
+<dt onmousedown="alert(1)">test</dt>
+<dt onmouseenter="alert(1)">test</dt>
+<dt onmouseleave="alert(1)">test</dt>
+<dt onmousemove="alert(1)">test</dt>
+<dt onmouseout="alert(1)">test</dt>
+<dt onmouseover="alert(1)">test</dt>
+<dt onmouseup="alert(1)">test</dt>
+<dt onpaste="alert(1)" contenteditable>test</dt>
+<element draggable="true" ondrag="alert(1)">test</element>
+<element draggable="true" ondragend="alert(1)">test</element>
+<element draggable="true" ondragenter="alert(1)">test</element>
+<element draggable="true" ondragleave="alert(1)">test</element>
+<element draggable="true" ondragstart="alert(1)">test</element>
+<element id=x tabindex=1 onactivate=alert(1)></element>
+<element id=x tabindex=1 onbeforeactivate=alert(1)></element>
+<element id=x tabindex=1 onbeforedeactivate=alert(1)></element><input autofocus>
+<element id=x tabindex=1 ondeactivate=alert(1)></element><input id=y autofocus>
+<element id=x tabindex=1 onfocus=alert(1)></element>
+<element id=x tabindex=1 onfocusin=alert(1)></element>
+<element onbeforecopy="alert(1)" contenteditable>test</element>
+<element onbeforecut="alert(1)" contenteditable>test</element>
+<element onbeforepaste="alert(1)" contenteditable>test</element>
+<element onblur=alert(1) tabindex=1 id=x></element><input autofocus>
+<element onclick="alert(1)">test</element>
+<element oncontextmenu="alert(1)">test</element>
+<element oncopy="alert(1)" contenteditable>test</element>
+<element oncut="alert(1)" contenteditable>test</element>
+<element ondblclick="alert(1)">test</element>
+<element onfocusout=alert(1) tabindex=1 id=x></element><input autofocus>
+<element onkeydown="alert(1)" contenteditable>test</element>
+<element onkeypress="alert(1)" contenteditable>test</element>
+<element onkeyup="alert(1)" contenteditable>test</element>
+<element onmousedown="alert(1)">test</element>
+<element onmouseenter="alert(1)">test</element>
+<element onmouseleave="alert(1)">test</element>
+<element onmousemove="alert(1)">test</element>
+<element onmouseout="alert(1)">test</element>
+<element onmouseover="alert(1)">test</element>
+<element onmouseup="alert(1)">test</element>
+<element onpaste="alert(1)" contenteditable>test</element>
+<em draggable="true" ondrag="alert(1)">test</em>
+<em draggable="true" ondragend="alert(1)">test</em>
+<em draggable="true" ondragenter="alert(1)">test</em>
+<em draggable="true" ondragleave="alert(1)">test</em>
+<em draggable="true" ondragstart="alert(1)">test</em>
+<em id=x tabindex=1 onactivate=alert(1)></em>
+<em id=x tabindex=1 onbeforeactivate=alert(1)></em>
+<em id=x tabindex=1 onbeforedeactivate=alert(1)></em><input autofocus>
+<em id=x tabindex=1 ondeactivate=alert(1)></em><input id=y autofocus>
+<em id=x tabindex=1 onfocus=alert(1)></em>
+<em id=x tabindex=1 onfocusin=alert(1)></em>
+<em onbeforecopy="alert(1)" contenteditable>test</em>
+<em onbeforecut="alert(1)" contenteditable>test</em>
+<em onbeforepaste="alert(1)" contenteditable>test</em>
+<em onblur=alert(1) tabindex=1 id=x></em><input autofocus>
+<em onclick="alert(1)">test</em>
+<em oncontextmenu="alert(1)">test</em>
+<em oncopy="alert(1)" contenteditable>test</em>
+<em oncut="alert(1)" contenteditable>test</em>
+<em ondblclick="alert(1)">test</em>
+<em onfocusout=alert(1) tabindex=1 id=x></em><input autofocus>
+<em onkeydown="alert(1)" contenteditable>test</em>
+<em onkeypress="alert(1)" contenteditable>test</em>
+<em onkeyup="alert(1)" contenteditable>test</em>
+<em onmousedown="alert(1)">test</em>
+<em onmouseenter="alert(1)">test</em>
+<em onmouseleave="alert(1)">test</em>
+<em onmousemove="alert(1)">test</em>
+<em onmouseout="alert(1)">test</em>
+<em onmouseover="alert(1)">test</em>
+<em onmouseup="alert(1)">test</em>
+<em onpaste="alert(1)" contenteditable>test</em>
+<embed draggable="true" ondrag="alert(1)">test</embed>
+<embed draggable="true" ondragend="alert(1)">test</embed>
+<embed draggable="true" ondragenter="alert(1)">test</embed>
+<embed draggable="true" ondragleave="alert(1)">test</embed>
+<embed draggable="true" ondragstart="alert(1)">test</embed>
+<embed id=x onfocus=alert(1) type=text/html>
+<embed id=x onfocusin=alert(1) type=text/html>
+<embed id=x tabindex=1 onactivate=alert(1)></embed>
+<embed id=x tabindex=1 onbeforeactivate=alert(1)></embed>
+<embed id=x tabindex=1 onbeforedeactivate=alert(1)></embed><input autofocus>
+<embed id=x tabindex=1 ondeactivate=alert(1)></embed><input id=y autofocus>
+<embed onbeforecopy="alert(1)" contenteditable>test</embed>
+<embed onbeforecut="alert(1)" contenteditable>test</embed>
+<embed onbeforepaste="alert(1)" contenteditable>test</embed>
+<embed onblur=alert(1) tabindex=1 id=x></embed><input autofocus>
+<embed onclick="alert(1)">test</embed>
+<embed oncontextmenu="alert(1)">test</embed>
+<embed oncopy="alert(1)" contenteditable>test</embed>
+<embed oncut="alert(1)" contenteditable>test</embed>
+<embed ondblclick="alert(1)">test</embed>
+<embed onfocusout=alert(1) tabindex=1 id=x></embed><input autofocus>
+<embed onkeydown="alert(1)" contenteditable>test</embed>
+<embed onkeypress="alert(1)" contenteditable>test</embed>
+<embed onkeyup="alert(1)" contenteditable>test</embed>
+<embed onmousedown="alert(1)">test</embed>
+<embed onmouseenter="alert(1)">test</embed>
+<embed onmouseleave="alert(1)">test</embed>
+<embed onmousemove="alert(1)">test</embed>
+<embed onmouseout="alert(1)">test</embed>
+<embed onmouseover="alert(1)">test</embed>
+<embed onmouseup="alert(1)">test</embed>
+<embed onpaste="alert(1)" contenteditable>test</embed>
+<embed src=/ onload=alert(1)>
+<embed src=1 onerror=alert(1) type=image/gif>
+<fieldset draggable="true" ondrag="alert(1)">test</fieldset>
+<fieldset draggable="true" ondragend="alert(1)">test</fieldset>
+<fieldset draggable="true" ondragenter="alert(1)">test</fieldset>
+<fieldset draggable="true" ondragleave="alert(1)">test</fieldset>
+<fieldset draggable="true" ondragstart="alert(1)">test</fieldset>
+<fieldset id=x tabindex=1 onactivate=alert(1)></fieldset>
+<fieldset id=x tabindex=1 onbeforeactivate=alert(1)></fieldset>
+<fieldset id=x tabindex=1 onbeforedeactivate=alert(1)></fieldset><input autofocus>
+<fieldset id=x tabindex=1 ondeactivate=alert(1)></fieldset><input id=y autofocus>
+<fieldset id=x tabindex=1 onfocus=alert(1)></fieldset>
+<fieldset id=x tabindex=1 onfocusin=alert(1)></fieldset>
+<fieldset onbeforecopy="alert(1)" contenteditable>test</fieldset>
+<fieldset onbeforecut="alert(1)" contenteditable>test</fieldset>
+<fieldset onbeforepaste="alert(1)" contenteditable>test</fieldset>
+<fieldset onblur=alert(1) tabindex=1 id=x></fieldset><input autofocus>
+<fieldset onclick="alert(1)">test</fieldset>
+<fieldset oncontextmenu="alert(1)">test</fieldset>
+<fieldset oncopy="alert(1)" contenteditable>test</fieldset>
+<fieldset oncut="alert(1)" contenteditable>test</fieldset>
+<fieldset ondblclick="alert(1)">test</fieldset>
+<fieldset onfocusout=alert(1) tabindex=1 id=x></fieldset><input autofocus>
+<fieldset onkeydown="alert(1)" contenteditable>test</fieldset>
+<fieldset onkeypress="alert(1)" contenteditable>test</fieldset>
+<fieldset onkeyup="alert(1)" contenteditable>test</fieldset>
+<fieldset onmousedown="alert(1)">test</fieldset>
+<fieldset onmouseenter="alert(1)">test</fieldset>
+<fieldset onmouseleave="alert(1)">test</fieldset>
+<fieldset onmousemove="alert(1)">test</fieldset>
+<fieldset onmouseout="alert(1)">test</fieldset>
+<fieldset onmouseover="alert(1)">test</fieldset>
+<fieldset onmouseup="alert(1)">test</fieldset>
+<fieldset onpaste="alert(1)" contenteditable>test</fieldset>
+<figcaption draggable="true" ondrag="alert(1)">test</figcaption>
+<figcaption draggable="true" ondragend="alert(1)">test</figcaption>
+<figcaption draggable="true" ondragenter="alert(1)">test</figcaption>
+<figcaption draggable="true" ondragleave="alert(1)">test</figcaption>
+<figcaption draggable="true" ondragstart="alert(1)">test</figcaption>
+<figcaption id=x tabindex=1 onactivate=alert(1)></figcaption>
+<figcaption id=x tabindex=1 onbeforeactivate=alert(1)></figcaption>
+<figcaption id=x tabindex=1 onbeforedeactivate=alert(1)></figcaption><input autofocus>
+<figcaption id=x tabindex=1 ondeactivate=alert(1)></figcaption><input id=y autofocus>
+<figcaption id=x tabindex=1 onfocus=alert(1)></figcaption>
+<figcaption id=x tabindex=1 onfocusin=alert(1)></figcaption>
+<figcaption onbeforecopy="alert(1)" contenteditable>test</figcaption>
+<figcaption onbeforecut="alert(1)" contenteditable>test</figcaption>
+<figcaption onbeforepaste="alert(1)" contenteditable>test</figcaption>
+<figcaption onblur=alert(1) tabindex=1 id=x></figcaption><input autofocus>
+<figcaption onclick="alert(1)">test</figcaption>
+<figcaption oncontextmenu="alert(1)">test</figcaption>
+<figcaption oncopy="alert(1)" contenteditable>test</figcaption>
+<figcaption oncut="alert(1)" contenteditable>test</figcaption>
+<figcaption ondblclick="alert(1)">test</figcaption>
+<figcaption onfocusout=alert(1) tabindex=1 id=x></figcaption><input autofocus>
+<figcaption onkeydown="alert(1)" contenteditable>test</figcaption>
+<figcaption onkeypress="alert(1)" contenteditable>test</figcaption>
+<figcaption onkeyup="alert(1)" contenteditable>test</figcaption>
+<figcaption onmousedown="alert(1)">test</figcaption>
+<figcaption onmouseenter="alert(1)">test</figcaption>
+<figcaption onmouseleave="alert(1)">test</figcaption>
+<figcaption onmousemove="alert(1)">test</figcaption>
+<figcaption onmouseout="alert(1)">test</figcaption>
+<figcaption onmouseover="alert(1)">test</figcaption>
+<figcaption onmouseup="alert(1)">test</figcaption>
+<figcaption onpaste="alert(1)" contenteditable>test</figcaption>
+<figure draggable="true" ondrag="alert(1)">test</figure>
+<figure draggable="true" ondragend="alert(1)">test</figure>
+<figure draggable="true" ondragenter="alert(1)">test</figure>
+<figure draggable="true" ondragleave="alert(1)">test</figure>
+<figure draggable="true" ondragstart="alert(1)">test</figure>
+<figure id=x tabindex=1 onactivate=alert(1)></figure>
+<figure id=x tabindex=1 onbeforeactivate=alert(1)></figure>
+<figure id=x tabindex=1 onbeforedeactivate=alert(1)></figure><input autofocus>
+<figure id=x tabindex=1 ondeactivate=alert(1)></figure><input id=y autofocus>
+<figure id=x tabindex=1 onfocus=alert(1)></figure>
+<figure id=x tabindex=1 onfocusin=alert(1)></figure>
+<figure onbeforecopy="alert(1)" contenteditable>test</figure>
+<figure onbeforecut="alert(1)" contenteditable>test</figure>
+<figure onbeforepaste="alert(1)" contenteditable>test</figure>
+<figure onblur=alert(1) tabindex=1 id=x></figure><input autofocus>
+<figure onclick="alert(1)">test</figure>
+<figure oncontextmenu="alert(1)">test</figure>
+<figure oncopy="alert(1)" contenteditable>test</figure>
+<figure oncut="alert(1)" contenteditable>test</figure>
+<figure ondblclick="alert(1)">test</figure>
+<figure onfocusout=alert(1) tabindex=1 id=x></figure><input autofocus>
+<figure onkeydown="alert(1)" contenteditable>test</figure>
+<figure onkeypress="alert(1)" contenteditable>test</figure>
+<figure onkeyup="alert(1)" contenteditable>test</figure>
+<figure onmousedown="alert(1)">test</figure>
+<figure onmouseenter="alert(1)">test</figure>
+<figure onmouseleave="alert(1)">test</figure>
+<figure onmousemove="alert(1)">test</figure>
+<figure onmouseout="alert(1)">test</figure>
+<figure onmouseover="alert(1)">test</figure>
+<figure onmouseup="alert(1)">test</figure>
+<figure onpaste="alert(1)" contenteditable>test</figure>
+<font draggable="true" ondrag="alert(1)">test</font>
+<font draggable="true" ondragend="alert(1)">test</font>
+<font draggable="true" ondragenter="alert(1)">test</font>
+<font draggable="true" ondragleave="alert(1)">test</font>
+<font draggable="true" ondragstart="alert(1)">test</font>
+<font id=x tabindex=1 onactivate=alert(1)></font>
+<font id=x tabindex=1 onbeforeactivate=alert(1)></font>
+<font id=x tabindex=1 onbeforedeactivate=alert(1)></font><input autofocus>
+<font id=x tabindex=1 ondeactivate=alert(1)></font><input id=y autofocus>
+<font id=x tabindex=1 onfocus=alert(1)></font>
+<font id=x tabindex=1 onfocusin=alert(1)></font>
+<font onbeforecopy="alert(1)" contenteditable>test</font>
+<font onbeforecut="alert(1)" contenteditable>test</font>
+<font onbeforepaste="alert(1)" contenteditable>test</font>
+<font onblur=alert(1) tabindex=1 id=x></font><input autofocus>
+<font onclick="alert(1)">test</font>
+<font oncontextmenu="alert(1)">test</font>
+<font oncopy="alert(1)" contenteditable>test</font>
+<font oncut="alert(1)" contenteditable>test</font>
+<font ondblclick="alert(1)">test</font>
+<font onfocusout=alert(1) tabindex=1 id=x></font><input autofocus>
+<font onkeydown="alert(1)" contenteditable>test</font>
+<font onkeypress="alert(1)" contenteditable>test</font>
+<font onkeyup="alert(1)" contenteditable>test</font>
+<font onmousedown="alert(1)">test</font>
+<font onmouseenter="alert(1)">test</font>
+<font onmouseleave="alert(1)">test</font>
+<font onmousemove="alert(1)">test</font>
+<font onmouseout="alert(1)">test</font>
+<font onmouseover="alert(1)">test</font>
+<font onmouseup="alert(1)">test</font>
+<font onpaste="alert(1)" contenteditable>test</font>
+<footer draggable="true" ondrag="alert(1)">test</footer>
+<footer draggable="true" ondragend="alert(1)">test</footer>
+<footer draggable="true" ondragenter="alert(1)">test</footer>
+<footer draggable="true" ondragleave="alert(1)">test</footer>
+<footer draggable="true" ondragstart="alert(1)">test</footer>
+<footer id=x tabindex=1 onactivate=alert(1)></footer>
+<footer id=x tabindex=1 onbeforeactivate=alert(1)></footer>
+<footer id=x tabindex=1 onbeforedeactivate=alert(1)></footer><input autofocus>
+<footer id=x tabindex=1 ondeactivate=alert(1)></footer><input id=y autofocus>
+<footer id=x tabindex=1 onfocus=alert(1)></footer>
